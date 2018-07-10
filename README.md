@@ -1,4 +1,4 @@
-# _ResponsiveNavigation_ Chart Library for Angular6 by TypeScript2
+# _ResponsiveNavigation_ responsive navigation sample based on Angular Material in Angular6
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
 
