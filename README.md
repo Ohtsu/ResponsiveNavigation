@@ -1,27 +1,87 @@
-# ResponsiveNavigation
+# _ResponsiveNavigation_ Chart Library for Angular6 by TypeScript2
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
-## Development server
+_ResponsiveNavigation_ is a initial set for those who want to make navigations by Angular Material in Angular6.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+_This full source code_,
+<https://github.com/Ohtsu/ResponsiveNavigation>
 
-## Code scaffolding
+_Video Explanation (Japanese)_,
+<https://www.youtube.com/watch?v=X59LfgaGnrM>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+_Video Explanation (English)_,
+<https://www.youtube.com/watch?v=F1GUUFpYc-g&t=5s>
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Overview 
+   - _ResponsiveNavigation_ is a responsive navigation sample based on Angular Material in Angular6.
 
-## Running unit tests
+   - _ResponsiveNavigation_ uses mat-sidenav,mat-toolbar,mat-nav-list and so on.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+   - _ResponsiveNavigation_ uses Material Icons.
+  
 
-## Running end-to-end tests
+## Prerequisite
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+   - node.js
+   - Typescript2
+   - Angular6
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Installation
+
+To install this project, run simply:
+
+```bash
+$ npm install 
+```
+## Start project
+
+If you start local server as follows, you can get many kinds of charts in your browser by accessing **http://localhost:4200**.
+
+
+```bash
+$ ng serve -o
+```
+
+
+## Version
+
+   - ResponsiveNavigation       : 0.0
+   - Angular6                   : 6.0.0
+   - TypeScript                 : 2.7.2
+   - @angular/material          : 6.2.1
+
+
+
+## Reference
+
+- "Schematics", 
+<https://material.angular.io/guide/schematics>
+
+- "Angular 5, Angular 6 Custom Library: Step-by-step guide", 
+<https://www.udemy.com/angular5-custom-library-the-definitive-step-by-step-guide/>
+
+- "Discount Coupon Code (until 2018.7.12)", 
+<https://www.udemy.com/angular5-custom-library-the-definitive-step-by-step-guide/?couponCode=CUSTLIB-EN-20180713>
+
+- "Angular 5, Angular 6用 カスタムライブラリの作成: 完全ステップ・バイ・ステップ・ガイド", 
+<https://www.udemy.com/angular5-l/>
+
+- "ディスカウント・クーポン(2018.7.12まで)", 
+<https://www.udemy.com/angular5-l/?couponCode=NG5-CUSLIB-JA-0712>
+
+
+## Change Log
+
+ - 2018.7.11 version 0.0 uploaded 
+
+## Copyright
+
+copyright 2018 by Shuichi Ohtsu (DigiPub Japan)
+
+
+## License
+
+MIT © [Shuichi Ohtsu](ohtsu@digipub-net.com)
