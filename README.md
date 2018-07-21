@@ -52,7 +52,7 @@ $ ng serve -o
 
 ## Version
 
-   - ResponsiveNavigation       : 0.0
+   - ResponsiveNavigation       : 0.1
    - Angular6                   : 6.0.0
    - TypeScript                 : 2.7.2
    - @angular/material          : 6.2.1
