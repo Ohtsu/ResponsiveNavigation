@@ -45,6 +45,10 @@ If you start local server as follows, you can get many kinds of charts in your b
 $ ng serve -o
 ```
 
+  - ***First Page*** 
+
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/ng6-material/Navigation01.gif" width= "640" >
+
 
 ## Version
 
