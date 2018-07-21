@@ -80,6 +80,7 @@ $ ng serve -o
 ## Change Log
 
  - 2018.7.11 version 0.0 uploaded 
+ - 2018.7.21 version 0.1 uploaded 
 
 ## Copyright
 
